@@ -93,3 +93,13 @@ This skill is a research and drafting aid. It is not legal advice and does not r
 ### Contributing
 
 Corrections are welcome through Issues or Pull Requests, provided each article number comes with a link to its official source.
+
+---
+
+## License · الترخيص
+
+[MIT](LICENSE) — حر الاستخدام والتعديل والنشر مع إبقاء إشعار الحقوق. Free to use, modify and share, provided the copyright notice is kept.
+
+## Contributing · المساهمة
+
+طريقة المساهمة والمهام المفتوحة في [CONTRIBUTING.md](CONTRIBUTING.md). See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute and the open tasks.
